@@ -4,10 +4,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendtestApplication {
+public class BackendTestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BackendtestApplication.class, args);
+        SpringApplication.run(BackendTestApplication.class, args);
     }
 
 }
+
